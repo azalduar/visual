@@ -1,10 +1,7 @@
 # Alejandra Zaldúa Rodríguez 
 
 ## About me
-I am a qualified customer service representative with 4 years in fast-paced customer service
-and call center environments. I am personable and professional under pressure, versed in
-customer satisfaction and customer support. I have superior computer skills and telephone
-etiquette aiming to deliver positive experiences through high-quality customer care.
+I am 10th semester student of Ingeniería de Sistemas y Computación at Universidad Nacional de Colombia. I also work for Microsoft Colombia. I did a one-year internship with them and now they created the Sales Excellence Operations position for me to continue to be a part of the team.
 
 ## Skills
 * Energetic, friendly and helpful
