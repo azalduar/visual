@@ -1,2 +1,2 @@
 # visual
-# This is my page for computacion visual
+# This is my page for my Visual Computing class
