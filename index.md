@@ -22,7 +22,7 @@ _____
 
 ### Achievements
 
-* Contributing to the achievement of sales and delivery goals for the Microsoft Services team in Colombia through the management of Work Orders and Contracts. 
+* Contributing to the **achievement of sales and delivery goals** for the Microsoft Services team in Colombia through the management of Work Orders and Contracts. 
 * Identifying business opportunities with public sector education entities, such as SENA, that enable strategic partnership between Microsoft and the Public Sector in Colombia. 
 * Notably releive my work team of its operational burden through the analysis and optimization of contracting and service delivery processes. 
 * Contributing to the Azure consumption goal of the Enterprise segment in Microsoft by analyzing consumption trends and pipeline information. 
