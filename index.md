@@ -1,9 +1,15 @@
 # Alejandra Zaldúa Rodríguez 
----
+
+*****
+
 ## About me
+
 I am 10th semester student of Ingeniería de Sistemas y Computación at Universidad Nacional de Colombia. I also work for Microsoft Colombia. I did a one-year internship with them and now they created the Sales Excellence Operations position for me to continue to be a part of the team.
----
+
+-----
+
 ## Skills
+
 * Leadership
 * Results Orientation
 * Energetic, friendly and helpful
@@ -11,7 +17,9 @@ I am 10th semester student of Ingeniería de Sistemas y Computación at Universi
 * Strong collaborator
 
 I have worked as a Jr. Project Manager for Microsoft's Customer Claro Colombia, and assisted the update and transition to the Cloud of their sales portal *Poliedro*. Then, I worked as a Jr. Project Manager on the implementation of ALM in the IT Department for the same customer. 
----
+
+_____
+
 ## Achievements
 
 * Contributing to the achievement of sales and delivery goals for the Microsoft Services team in Colombia through the management of Work Orders and Contracts. 
