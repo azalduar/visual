@@ -1,5 +1,18 @@
 <html>
 	<body>
+		<div class="col-md-6" id="myMenuArea">
+			<table style="width:100%">
+				<tr>
+					<td style="color:rgb(255, 112, 0);">ABOUT</td>
+					<td><a href="publications.html">PUBLICATIONS</a></td> 
+    					<td><a href="models.html">MODELS</a></td>
+    					<td><a href="espanol.html">ESPAÑOL</a></td>
+    					<td><a href="news.html">NEWS</a></td>
+    					<td><a href="repository.html">REPOSITORY</a></td>
+  				</tr>
+			</table>
+		</div>
+		
 		<div>
 			<h1>Alejandra Zaldúa Rodríguez</h1>
 			<h2>Student of Ingeniería de Sistemas & Computación</h2>
