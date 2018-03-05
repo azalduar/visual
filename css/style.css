@@ -30,7 +30,7 @@
 
 
 body{
-	background-color:#000;
+	background-color:#D7CEC7;
 	/*background-image: url("background.jpg");*/
 }
 
@@ -50,7 +50,7 @@ h1{
 	font-family: 'Orbitron', sans-serif;
 	font-weight: 400;
 	font-size:36px;
-	color:rgb(255,112,255);
+	color:#76323F;
 	padding: 0 0 0 15px;
 }
 
@@ -58,7 +58,7 @@ h2{
 	font-family: 'Gruppo', cursive;
 	font-weight: 400;
 	font-size:20px;
-	color:rgb(255,255,255);
+	color:#565656;
 	padding: 0 0 0 15px;
 }
 
