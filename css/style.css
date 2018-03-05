@@ -30,12 +30,12 @@
 
 
 body{
-	background-color:#D7CEC7;
+	background-color:#111111;
 	/*background-image: url("background.jpg");*/
 }
 
 .container {
-	background-color:#333333;
+	background-color:#D7CEC7;
     border-radius: 15px;
     width: 100%;
     max-width: 900px;
