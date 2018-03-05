@@ -57,7 +57,7 @@ h1{
 h2{
 	font-family: 'Handlee', cursive;
 	font-weight: 400;
-	font-size:30px;
+	font-size:26px;
 	color:#565656;
 	padding: 0 0 0 15px;
 }
@@ -65,7 +65,7 @@ h2{
 h3{
 	font-family: 'Halant', serif;
 	font-weight: 400;
-	font-size:24px;
+	font-size:20px;
 	color:#111111;
 }
 
@@ -79,7 +79,7 @@ h4{
 p{
 	font-family: 'Halant', serif;
 	font-weight: 400;
-	font-size:24px;
+	font-size:20px;
 	color:#111111;
 	padding: 15px 10px 0 10px;
 }
@@ -87,7 +87,7 @@ p{
 li{
 	font-family: 'Halant', serif;
 	font-weight: 400;
-	font-size:24px;
+	font-size:20px;
 	color:#111111;
 	padding: 0px 0px 0px 30px;
 }
@@ -106,7 +106,7 @@ li{
 .galleryCaption{
 	font-family: 'Halant', serif;
 	font-weight: 400;
-	font-size:24px;
+	font-size:20px;
 	color:#0f0f0f;
 	border-radius: 2px;
 	border-bottom-right-radius: 20px;
@@ -147,7 +147,7 @@ li{
 #leftSider{
 	font-family: 'Handlee', cursive;
 	font-weight: 400;
-	font-size:24px;
+	font-size:20px;
 	border-radius: 2px;
 	border-bottom-right-radius: 20px;
 	border-top-left-radius: 20px;
@@ -249,7 +249,7 @@ p a:active {
 #copyright {
   text-align: center;
   float: none !important;
-  background-color: #000;
+  background-color: #76323f;
 }
 
 @media (max-width: 991px) {
@@ -258,7 +258,7 @@ p a:active {
     text-align: center;
     margin-bottom: 5px;
     margin-top: 5px;
-    background-color:#333333;
+    background-color: #76323f;
     border-radius: 5px;
     width: 100%;
 
