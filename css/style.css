@@ -47,26 +47,26 @@ td{
 }
 
 h1{
-	font-family: 'Orbitron', sans-serif;
+	font-family: 'Berkshire Swash', cursive;
 	font-weight: 400;
-	font-size:36px;
+	font-size:40px;
 	color:#76323F;
 	padding: 0 0 0 15px;
 }
 
 h2{
-	font-family: 'Gruppo', cursive;
+	font-family: 'Handlee', cursive;
 	font-weight: 400;
-	font-size:20px;
+	font-size:30px;
 	color:#565656;
 	padding: 0 0 0 15px;
 }
 
 h3{
-	font-family: 'Cuprum', sans-serif;
+	font-family: 'Halant', serif;
 	font-weight: 400;
-	font-size:16px;
-	color:rgb(191, 191, 191);
+	font-size:24px;
+	color:#111111;
 }
 
 h4{
@@ -77,25 +77,25 @@ h4{
 }
 
 p{
-	font-family: 'Cuprum', sans-serif;
+	font-family: 'Halant', serif;
 	font-weight: 400;
-	font-size:18px;
-	color:#bfbfbf;
+	font-size:24px;
+	color:#111111;
 	padding: 15px 10px 0 10px;
 }
 
-li {
-    background: #3399ff;
-	font-family: 'Cuprum', sans-serif;
+li{
+	font-family: 'Halant', serif;
 	font-weight: 400;
-	font-size:18px;
-	color:#bfbfbf;
+	font-size:24px;
+	color:#111111;
 	padding: 0px 0px 0px 30px;
 }
+
 .tableTitle{
-	font-family: 'Cuprum', sans-serif;
+	font-family: 'Halant', serif;
 	font-weight: 700;
-	font-size:20px;
+	font-size:24px;
 	color:#ff7000;
 }
 
@@ -104,9 +104,9 @@ li {
 }
 
 .galleryCaption{
-	font-family: 'Cuprum', sans-serif;
+	font-family: 'Halant', serif;
 	font-weight: 400;
-	font-size:18px;
+	font-size:24px;
 	color:#0f0f0f;
 	border-radius: 2px;
 	border-bottom-right-radius: 20px;
@@ -135,24 +135,24 @@ li {
 }
 
 #myMenu{
-	font-family: 'Cuprum', sans-serif;
+	font-family: 'Handlee', cursive;
 	font-weight: 400;
-	font-size:18px;
-	background-color:#0f0f0f;
+	font-size:22px;
+	background-color:#111111;
 	max-width: 105%;
 	height: auto;
 	display: block
 }
 
 #leftSider{
-	font-family: 'Cuprum', sans-serif;
+	font-family: 'Handlee', cursive;
 	font-weight: 400;
-	font-size:14px;
+	font-size:24px;
 	border-radius: 2px;
 	border-bottom-right-radius: 20px;
 	border-top-left-radius: 20px;
 	padding-top: 20px;
-	background-color: #bfbfbf;
+	background-color: #c09f80;
 	margin: 40px 20px 0 40px;
 }
 
@@ -176,19 +176,19 @@ li {
 
 /* LINK STYLE*/
 a.third:link {
-    color: #0b0b0b;
+    color: #76323F;
     text-decoration: none;
 }
 
 /* visited link in left sider*/
 a.third:visited {
-    color: #0b0b0b;
+    color: #565656;
     text-decoration: none;
 }
 
 /* mouse over link in left sider*/
 a.third:hover {
-    color: #FFC080;
+    color: #c09f80;
     text-decoration: none;
 }
 
@@ -200,49 +200,49 @@ a.third:active {
 
 /* unvisited link */
 a:link {
-    color: #bfbfbf;
+    color: #76323f;
     text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-    color: #bfbfbf;
+    color: #565656;
     text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
-    color: #FFC080;
+    color: #c09f80;
     text-decoration: none;
 }
 
 /* selected link */
 a:active {
-    color: #bfbfbf;
+    color: #76323f;
     text-decoration: none;
 }
 
 /* unvisited link in paragraph*/
 p a:link {
-    color: #ff7000;
+    color: #76323f;
     text-decoration: none;
 }
 
 /* visited link in paragraph*/
 p a:visited {
-    color: #ff7000;
+    color: #565656;
     text-decoration: none;
 }
 
 /* mouse over link in paragraph*/
 p a:hover {
-    color: #FFC080;
+    color: #c09f80;
     text-decoration: none;
 }
 
 /* selected link in paragraph*/
 p a:active {
-    color: #bfbfbf;
+    color: #76323f;
     text-decoration: none;
 }
 
